@@ -1,1 +1,2 @@
 # hpvsoma.github.io
+Website for SOMA c/o 2020 Epidemiology project: Understanding the role of an informational video on knowledge, attitude and beliefs regarding Human Papillomavirus (HPV) vaccine within different communities served by NYU Family Health Centers.
