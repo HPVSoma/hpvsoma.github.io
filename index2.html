@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body>
+            Password: <input id='password' type='text'  />
+            <a href="https://docs.google.com/forms/d/1skd6EIzBo4cSptEk9mSwyzt5zritZNfjeUKiug07vJU/edit?usp=sharing" onclick="javascript:return validatePass()">Enter</a>
+            <script>
+            function validatePass(){
+                if(document.getElementById('password').value == 'soma2020'){
+                    return true;
+                }else{
+                    alert('wrong password!!');
+                    return false;
+                }
+            }
+            </script>
+    </body>
+</html>

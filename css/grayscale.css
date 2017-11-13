@@ -55,8 +55,8 @@ a {
   #mainNav .navbar-toggler {
     font-size: 14px;
     padding: 11px;
-    color: white;
-    border: 1px solid white; }
+    color: black;
+    border: 1px solid black; }
   #mainNav .navbar-brand {
     font-weight: 700; }
   #mainNav a {
@@ -100,8 +100,8 @@ a {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
-  background-color: black;
+  background: url("../img/hpv-histo.jpg") no-repeat bottom center scroll;
+  background-color: white;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
